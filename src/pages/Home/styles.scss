@@ -1,0 +1,44 @@
+.container-home {
+    max-width: 1232px;
+    margin: auto;
+
+    .content {
+        height: calc(100vh - 4rem);
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        flex-wrap: wrap;
+        padding: 1rem;
+        gap: 1rem;
+
+        .containerButton {
+            padding: 1rem;
+        }
+        
+        .button {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 1rem 2rem;
+            background: var(--blue);
+            border: none;
+            border-radius: 1rem;
+            color: #FFF;
+            font-size: 1rem;
+            margin: 1rem 0;
+            cursor: pointer;
+            transition: filter 0.3s;
+            transition: transform 0.3s;
+
+            &:active {
+                filter: brightness(1.1);
+                transform: scale(0.95);
+            }
+
+        }
+
+        .image {
+            max-width: 385px;
+        }
+    }
+}

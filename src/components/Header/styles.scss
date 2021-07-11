@@ -1,0 +1,39 @@
+.container-header {
+    max-width: 1232px;
+    margin: auto;
+
+
+    .header {
+        height: 4rem;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0 1rem;;
+
+        .logo {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            color: var(--blue);
+
+            svg {
+                font-size: 1.5rem;
+            }
+            
+            a {
+                color: var(--blue);
+                text-decoration: none;
+            }
+        }
+
+        .links {
+            display: flex;
+            gap: 1rem;
+
+            a {
+                color: var(--black);
+                text-decoration: none;
+            }
+        }
+    }
+}
