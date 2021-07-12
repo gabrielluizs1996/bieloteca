@@ -13,7 +13,7 @@ A book finder developed with React, Typescript, Context API and Google Books API
 ```sh
 $ git clone https://github.com/gabrielluizs1996/bieloteca.git
 $ cd bieloteca
-$ yarn install
+$ yarn
 $ yarn start
 ```
 ## Run APP
