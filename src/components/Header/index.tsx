@@ -16,7 +16,7 @@ function Index() {
                     </Link>
                 </div>
                 <div className="links">
-                    <a href="https://github.com/gabrielluizs1996" target="_blank" rel = "noreferrer">Sobre</a>
+                    <a href="https://github.com/gabrielluizs1996/bieloteca" target="_blank" rel = "noreferrer">Sobre</a>
                     <a href="https://www.linkedin.com/in/gabrielluizs1996/" target="_blank" rel = "noreferrer">Contato</a>
                 </div>
             </div>
