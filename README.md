@@ -1,5 +1,8 @@
+# Bieloteca - **Um book finder desenvolvido em React, Typescript, Context API e fazendo integração com Google Books API**
 ![GitHub Logo](/src/assets/images/books.png)
-Format: ![Livros empilhados](/src/assets/images/books.png)
+
+# Project Demo
+[Bieloteca](https://bieloteca.vercel.app/)
 
 # Getting Started with Create React App
 
