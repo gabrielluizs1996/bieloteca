@@ -1,5 +1,5 @@
 ![GitHub Logo](/src/assets/images/books.png)
-Format: ![Livros empilhados](url)
+Format: ![Livros empilhados](/src/assets/images/books.png)
 
 # Getting Started with Create React App
 
