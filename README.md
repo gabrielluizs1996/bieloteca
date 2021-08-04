@@ -17,4 +17,4 @@ $ yarn
 $ yarn start
 ```
 ## Author
-### Gabriel Luiz da Silva [github](https://github.com/gabrielluizs1996)
+### Gabriel Luiz da Silva
